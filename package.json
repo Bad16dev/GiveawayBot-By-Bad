@@ -1,0 +1,33 @@
+{
+  "name": "BadGiveawayBot",
+  "version": "1.0.0",
+  "description": "Top GiveawayBot In 2022",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Bad",
+  "license": "Bad",
+  "keywords": [
+    "discord",
+    "giveaways",
+    "giveaway",
+    "bot",
+    "discord.js",
+    "discordjs"
+  ],
+  "dependencies": {
+    "discord-giveaways": "^5.0.1",
+    "discord.js": "^13.3.0",
+    "ms": "^3.0.0-canary.1"
+  },
+  "engines": {
+    "node": "16.x"
+  },
+  "repository": {
+    "url": "https://github.com/Bad16dev/GiveawayBot_By_Bad_V1.0"
+  },
+  "devDependencies": {
+    "node": "^16.9.1"
+  }
+}
